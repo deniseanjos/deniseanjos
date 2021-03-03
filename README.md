@@ -10,7 +10,7 @@
 - Atualmente estou direcionando minha carreira para a área de Tecnologia;
 - Cursando o bootcamp de Desenvolvedor(a) Full Stack Java na [Generation Brasil](https://brazil.generation.org);
 - Estudando: Java, Spring Boot, MySQL, Docker, Angular;
-- Também realizo cursos livres para aprimorar meus conhecimentos na área e softskills.
+- Também realizo cursos livres para aprimorar meus conhecimentos técnicos na área e soft skills.
 
 ## Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deniseanjos)
