@@ -15,7 +15,7 @@
 ## Contato
 <!-- [/![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deniseanjos/) -->
 
-<a href="https://www.linkedin.com/in/deniseanjos/" target="_blank">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deniseanjos/)</a>
+<a href="https://www.linkedin.com/in/deniseanjos/" target="_blank">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white?raw=true)](https://www.linkedin.com/in/deniseanjos/)</a>
 
 <!-- como comentar
 **deniseanjos/deniseanjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
