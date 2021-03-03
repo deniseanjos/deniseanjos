@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+  
+  ![Gif](https://raw.githubusercontent.com/deniseanjos/deniseanjos/main/DeniseAnjosGIFGitHub.gif)
+  
+</div>
+
+# Hi there 👋
 
 <!--
 **deniseanjos/deniseanjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
