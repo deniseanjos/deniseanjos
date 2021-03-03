@@ -9,7 +9,7 @@
 - Entusiasta da temática de Diversidade & Inclusão;
 - Atualmente estou direcionando minha carreira para a área de Tecnologia;
 - Cursando o bootcamp de Desenvolvedor(a) Full Stack Java na [Generation Brasil](https://brazil.generation.org);
-- Estudando: Lógica de Programação, Java, Spring Boot, MySQL;
+- Estudando: Java, Spring Boot, MySQL, Docker, Angular;
 - Também realizo cursos livres para aprimorar meus conhecimentos na área e softskills.
 
 ## Contato
