@@ -13,9 +13,7 @@
 - Também realizo cursos livres para aprimorar meus conhecimentos na área e softskills.
 
 ## Contato
-<!--[/![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deniseanjos/)
-
-[/![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deniseanjos/{:target="_blank"})
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deniseanjos/_blank)
 
 <!-- como comentar
 **deniseanjos/deniseanjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
