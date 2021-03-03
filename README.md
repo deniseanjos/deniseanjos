@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Gif](https://raw.githubusercontent.com/deniseanjos/deniseanjos/main/DeniseAnjosGIFGitHub.gif)
+  ![Gif](https://github.com/deniseanjos/deniseanjos/blob/main/DeniseAnjosGIF.gif?raw=true)
   
 </div>
 
