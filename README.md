@@ -10,7 +10,7 @@
 - :rainbow: Entusiasta da temática de Diversidade & Inclusão;
 - :dart: Atualmente estou direcionando minha carreira para a área de Tecnologia;
 - :pushpin: Cursando o bootcamp de Desenvolvedor(a) Full Stack Java na [Generation Brasil](https://brazil.generation.org);
-- :computer: Estudando: Java, Spring Boot, MySQL, Docker, Angular;
+- :computer: Estudando: Java, Spring Boot, MySQL, Angular;
 - :books: Também realizo cursos livres para aprimorar meus conhecimentos técnicos na área e soft skills.
 
 <!--
