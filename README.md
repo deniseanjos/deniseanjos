@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Gif](https://github.com/deniseanjos/deniseanjos/blob/main/DeniseAnjosGIF-GitHub.gif?raw=true "Cabeçalho do Perfil - Denise Anjos - Sejam bem-vindes ao meu GitHub")
+  ![Gif](https://github.com/deniseanjos/deniseanjos/blob/main/DeniseAnjosGIF%20-%20GitHub.gif?raw=true "Cabeçalho do Perfil - Denise Anjos - Sejam bem-vindes ao meu GitHub")
   
 </div>
 
