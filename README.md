@@ -14,4 +14,8 @@
 
 ## Portfólio
 
-:octocat: [Clique aqui](https://github.com/deniseanjos/portfolio) para verificar o resumo dos principais projetos desenvolvidos por mim, sozinha ou colaborativamente. 
+:octocat: [Clique aqui](https://github.com/deniseanjos/portfolio) para verificar o resumo dos principais projetos desenvolvidos ou em andamento.
+
+## Contatos
+
+[Linkedin](https://www.linkedin.com/in/deniseanjos/) | [CodePen](https://codepen.io/deniseanjos)
