@@ -9,7 +9,7 @@
 - :pushpin: Desenvolvedora Full Stack Java Jr - [Generation Brasil](https://brazil.generation.org);
 - :mortar_board: Formada em Administração;
 - :rainbow: Entusiasta da temática de Diversidade & Inclusão;
-- :computer: Estudando: Java (Spring Boot), Banco de Dados (MySQL), JavaScript (Angular), HTML, CSS e Bootstrap;
+- :computer: Estudando: Java, Spring Boot, MySQL, JavaScript, TypeScript, Angular, HTML, CSS e Bootstrap;
 - :books: Também realizo cursos livres para aprimorar meus conhecimentos técnicos na área e soft skills.
 
 ## Portfólio
