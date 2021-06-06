@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-- :pushpin: Desenvolvedora Full Stack Java Jr - [Generation Brasil](https://brazil.generation.org);
+- :pushpin: Desenvolvedora Java Full Stack Jr - [Generation Brasil](https://brazil.generation.org);
 - :mortar_board: Formada em Administração;
 - :rainbow: Entusiasta da temática de Diversidade & Inclusão;
 - :computer: Estudando: Java, Spring Boot, MySQL, JavaScript, TypeScript, Angular, HTML, CSS e Bootstrap;
