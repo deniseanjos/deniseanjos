@@ -10,7 +10,7 @@
 - :mortar_board: Formada em Administração;
 - :brain: Cursando pós-graduação em Projetos de Aplicativos Móveis Multiplataforma;
 - :rainbow: Entusiasta da temática de Diversidade & Inclusão;
-- :computer: Estudando: Java, Spring Boot, MySQL, JavaScript, TypeScript, Angular, HTML, CSS e Bootstrap;
+- :computer: Estudando: Java, Spring Boot, MySQL, JavaScript, TypeScript, Angular, React, HTML, CSS e Bootstrap;
 - :books: Também realizo cursos livres para aprimorar meus conhecimentos técnicos na área e soft skills.
 
 ## Portfólio
